@@ -41,7 +41,7 @@ class HomeManager:
         import json
 
         # Path to the JSON file
-        file_path = "/Users/zvistein/Downloads/lights_logic.json"
+        file_path = "/lights_logic.json"
 
         # Load the JSON file
         try:
