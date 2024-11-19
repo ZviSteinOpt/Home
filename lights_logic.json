@@ -1,0 +1,34 @@
+{
+    "light.lr_left_light": {
+        "logic": [
+            {
+                "stat_name": "time",
+                "value": 1700,
+                "action": "turn_on"
+            },
+            {
+                "stat_name": "time",
+                "value": 1700,
+                "action": "turn_on"
+            }
+        ]
+    },
+    "light.lr_left_light_2": {
+        "logic": [
+            {
+                "stat_name": "time",
+                "value": 1700,
+                "action": "turn_on"
+            }
+        ]
+    },
+    "light.lr_left_light_3": {
+        "logic": [
+            {
+                "stat_name": "time",
+                "value": 1700,
+                "action": "turn_on"
+            }
+        ]
+    }
+}
